@@ -10,6 +10,7 @@ on:
       - '**/*.tpl'
       - '**/*.py'
       - '**/*.tf'
+      - '**/*.txt'
       - '.github/workflows/release.yml'
 
 jobs:
