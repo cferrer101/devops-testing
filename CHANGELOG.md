@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.0](https://github.com/cferrer101/devops-testing/compare/v0.2.1...v0.3.0) (2022-05-15)
+
+
+### Features
+
+* **release_action:** testing beta function ([d65de34](https://github.com/cferrer101/devops-testing/commit/d65de34ed8727811fe88e968a55b761e1556eca2))
+* **release_action:** testing beta function ([2462d59](https://github.com/cferrer101/devops-testing/commit/2462d59918d27ca1a82d97bd1a0c0e9d4546d20a))
+
 ### [0.2.1](https://github.com/cferrer101/devops-testing/compare/v0.2.0...v0.2.1) (2022-05-15)
 
 
